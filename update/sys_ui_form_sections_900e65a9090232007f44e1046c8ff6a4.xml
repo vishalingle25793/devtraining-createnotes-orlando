@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="900e65a9090232007f44e1046c8ff6a4" sys_domain="global" table="x_snc_createnotes_note" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>vishal.ingle</sys_created_by>
+            <sys_created_on>2020-07-13 05:00:40</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_id>081b63942fc6501076eca55df699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides display_value="0">a80e65a9090232007f44e1046c8ff6a6</sys_overrides>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_createnotes_note" sys_domain="global" view="Default view">eebded69090232007f44e1046c8ff693</sys_ui_section>
+            <sys_updated_by>vishal.ingle</sys_updated_by>
+            <sys_updated_on>2020-07-13 05:00:40</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
@@ -28,6 +41,48 @@
             <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>vishal.ingle</sys_created_by>
+            <sys_created_on>2020-07-13 05:00:40</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_id>c41b63942fc6501076eca55df699b67b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides display_value="1">a40e65a9090232007f44e1046c8ff6a7</sys_overrides>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
+            <sys_updated_by>vishal.ingle</sys_updated_by>
+            <sys_updated_on>2020-07-13 05:00:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>vishal.ingle</sys_created_by>
+            <sys_created_on>2020-07-13 05:00:40</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_id>881b63942fc6501076eca55df699b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
+            <sys_updated_by>vishal.ingle</sys_updated_by>
+            <sys_updated_on>2020-07-13 05:00:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>vishal.ingle</sys_created_by>
+            <sys_created_on>2020-07-13 05:00:40</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_id>881b63942fc6501076eca55df699b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_createnotes_note" sys_domain="global" view="Default view">eebded69090232007f44e1046c8ff693</sys_ui_section>
+            <sys_updated_by>vishal.ingle</sys_updated_by>
+            <sys_updated_on>2020-07-13 05:00:40</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_createnotes_note</name>
